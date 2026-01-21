@@ -1,16 +1,22 @@
-## Hi there 👋
+# Personal Project Repository
 
-<!--
-**JialeiZhou/JialeiZhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository serves as a centralized collection of my academic, technical, and exploratory projects throughout my undergraduate studies in **Electronic and Computer Engineering (ECE)**.
 
-Here are some ideas to get you started:
+## About Me
+I am an ECE undergraduate student with interests spanning **computer systems, embedded systems, and applied engineering**. This repository reflects my continuous skill development, problem-solving approach, and technical growth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repository Scope
+Projects stored here may include (but are not limited to): 
+- Independent technical projects and experiments  
+- Research-oriented explorations and prototypes  
+- Programming practice and system-level implementations  
+
+Each project is documented with a focus on **clarity, reproducibility, and engineering rationale**, rather than results alone.
+
+## Purpose
+This repository is intended to:
+- Track my long-term technical progression  
+- Demonstrate hands-on engineering capability
+- Serve as a transparent portfolio for academic and professional evaluation  
+
+Content will be updated iteratively as my coursework, research exposure, and project complexity evolve.
